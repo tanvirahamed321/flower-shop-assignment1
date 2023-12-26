@@ -1,0 +1,55 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    background: rgba(229, 84, 115, 0.10);
+   
+}
+
+
+
+.header-container{
+    display: flex;
+    justify-content:space-around ;
+    margin: 0 30px;
+}
+.web-title{
+color: #272727;
+
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.header-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    
+    
+    
+}
+.btn{
+    border: 0;
+    border-radius: 5px;
+    padding: 20px 43px;
+    background: #E55473;
+    color: white;
+    width: 177px;
+    height:64px ;
+}
+.header-img{
+    width: 635;
+    height: 800;
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-left: 145px;
+    margin-bottom: 0;
+}
+
+
+
+
