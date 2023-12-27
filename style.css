@@ -157,6 +157,48 @@ line-height: normal;
 }
 
 
+#f-title{
+
+    padding-top: 150px;
+   
+    
+}
+.f-description{
+    color: rgba(255, 255, 255, 0.90);
+
+font-family: Lato;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+
+     
+}   
+
+.f-last{
+    color: rgba(255, 255, 255, 0.40);
+
+font-family: Lato;
+font-size: 16px;
+
+font-weight: 400;
+line-height: normal;
+}
+
+
+
+.footer-section{
+    
+    width: 1440px;
+    height: 449px;
+    background: #111010;
+    text-align: center;
+    color: white; 
+}
+
+
+
+
    
     
 
