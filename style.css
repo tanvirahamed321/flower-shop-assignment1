@@ -40,6 +40,7 @@ line-height: normal;
     color: white;
     width: 177px;
     height:64px ;
+    margin-bottom: 50px;
 }
 .header-img{
     width: 635;
@@ -72,8 +73,9 @@ line-height: normal;
     justify-content: space-around;
     margin: 0px;
     background: #FFF;
+}    
 
-}
+
 .section-two-img1{
     width: 310px;
     height: 428px;
@@ -112,6 +114,46 @@ line-height: normal;
     margin-top: 150px;
     line-height: 35px; 
    text-decoration-line: underline;
+}
+.section-3-container{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px;
+
+}
+
+
+.off-text{
+    color: #E55473;
+}
+.section-4-container{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    margin-right: 50px;
+    margin-left: 50px;
+    background: #FFF;
+}
+.section-5-container{
+    background-image: url('image/Rectangle\ 9.png');
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    padding: 60px;
+}
+.section-5-input{
+    text-align: center;
+}
+.email-box{
+    font-size: 15px;
+    font-weight: 100;
+    width: 700px;
+    height: 64px;
+    border-radius: 20px;
+    background: #FFF;
+
 }
 
 
